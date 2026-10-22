@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import axios from 'axios'
 import './App.css'
 
-const API_URL = "https://employee-2bikzk4v3-employee-managment-system1.vercel.app/api/employees";
+const API_URL = 'https://employee-2bikzk4v3-employee-managment-system1.vercel.app/api/employees';
 
 const emptyForm = {
   firstName: '',
